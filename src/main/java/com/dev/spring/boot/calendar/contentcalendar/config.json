@@ -1,0 +1,14 @@
+{
+  "TABLES": {
+    "CONTENTS": "contents"
+  },
+  "COLUMNS": {
+    "CONTENTS": {
+      "ID": "id",
+      "AUTH0_ID": "auth0_id",
+      "USERNAME": "username",
+      "EMAIL": "email",
+      "AUTH0_APP_METADATA": "auth0_app_metadata"
+    }
+  }
+}
